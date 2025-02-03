@@ -27,3 +27,5 @@ Os resultados incluem:
 - Equação da reta de regressão.
 - Coeficiente de correlação de Pearson.
 - Estimativa de Y para um valor específico de X.
+## Questões
+[Clique aqui para ver o PDF com as questões](./NP2.pdf)
