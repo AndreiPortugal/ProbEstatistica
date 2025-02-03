@@ -3,6 +3,9 @@
 ## Autor
 <u>Andrei Carvalho Torres Portugal</u>
 
+## Professor
+Prof. Ernesto dos Santos Vasconcelos
+
 ## Disciplina
 Probabilidade e Estatística
 
